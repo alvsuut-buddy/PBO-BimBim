@@ -1,3 +1,3 @@
 # 🚗 BimBim 
 
-BimBim adalah aplikasi sewa mobil berbasis GUI. Proyek ini dibuat untuk memenuhi tugas Pemrograman Berorientasi Objek (PBO) dengan menerapkan arsitektur MVC (Model-View-Controller). Aplikasi ini mensimulasikan proses penyewaan mobil yang sederhana. Pengguna dapat memilih jenis mobil, menentukan jumlah unit dan durasi sewa, melihat rincian biaya (nota), mengunggah bukti pembayaran, hingga membagikan lokasi pengantaran.
+BimBim is a GUI-based car rental application. This project was created to fulfill an Object-Oriented Programming (OOP) assignment by implementing the MVC (Model–View–Controller) architecture. The application simulates a simple car rental process. Users can select a car type, specify the number of units and rental duration, view the cost details (invoice), upload proof of payment, and share the delivery location.
